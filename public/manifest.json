@@ -1,6 +1,6 @@
 {
-  "short_name": "PancakeSwap",
-  "name": "PancakeSwap",
+  "short_name": "SViolence Token",
+  "name": "SViolence Token",
   "description": "Farm CAKE with Pancake LP Tokens",
   "icons": [
     {
@@ -12,5 +12,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#FFFFFF"
 }
